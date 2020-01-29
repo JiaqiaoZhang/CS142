@@ -1,0 +1,34 @@
+
+body {
+  height: 100%;
+}
+
+#box {
+  display: flex;
+  font-family: Tahoma;
+  font-size: 40px;
+
+}
+element {
+  background: #eeeff2;
+  width: 80px;
+  min-width: 80px;
+  height: 130px;
+  border-left-style: dotted;
+  border-left-color: #D0D0FF;
+  border-left-width: 10px;
+  padding: 10px;
+
+  margin: 10px;
+}
+
+.F {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
+
+.A:hover, .B:hover, .F:hover{
+  background: yellow;
+  color: goldenrod;
+}

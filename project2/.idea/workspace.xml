@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9456a21c-7088-4cf7-af55-c8b62b67e62d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WanO8H5e7lBIuC6BTInBXnapv8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Node.js.cs142-test-project2.js">
+    <configuration name="Unnamed" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" nameIsGenerated="true" port="9229">
+      <method v="2" />
+    </configuration>
+    <configuration name="cs142-test-project2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project2/cs142-test-project2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="cs142-make-multi-filter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/cs142-make-multi-filter.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="cs142-template-processor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/cs142-template-processor.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="cs142-test-project2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/cs142-test-project2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Node.js/Chrome.Unnamed" />
+      <item itemvalue="JavaScript Debug.cs142-test-project2.html" />
+      <item itemvalue="Node.js.cs142-make-multi-filter.js" />
+      <item itemvalue="Node.js.cs142-template-processor.js" />
+      <item itemvalue="Node.js.cs142-test-project2.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.cs142-test-project2.js" />
+        <item itemvalue="JavaScript Debug.cs142-test-project2.html" />
+        <item itemvalue="Node.js.cs142-template-processor.js" />
+        <item itemvalue="Node.js.cs142-make-multi-filter.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9456a21c-7088-4cf7-af55-c8b62b67e62d" name="Default Changelist" comment="" />
+      <created>1579396537867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579396537867</updated>
+      <workItem from="1579396540038" duration="9021000" />
+      <workItem from="1579496407604" duration="146000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="329" y="102" key="#JSHint" timestamp="1579396903611">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="329" y="102" key="#JSHint/0.23.1440.835/-229.-1057.1920.1057@0.23.1440.835" timestamp="1579396903611" />
+    <state x="193" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579397785171">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="193" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.835/-229.-1057.1920.1057@0.23.1440.835" timestamp="1579397785171" />
+    <state width="1379" height="201" key="GridCell.Tab.0.bottom" timestamp="1579496404742">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1379" height="201" key="GridCell.Tab.0.bottom/0.23.1440.834/-229.-1057.1920.1057@0.23.1440.834" timestamp="1579496404742" />
+    <state width="1379" height="201" key="GridCell.Tab.0.bottom/0.23.1440.835/-229.-1057.1920.1057@0.23.1440.835" timestamp="1579494328513" />
+    <state width="1379" height="201" key="GridCell.Tab.0.bottom/0.23.1440.836/-229.-1057.1920.1057@0.23.1440.836" timestamp="1579494267569" />
+    <state width="1379" height="201" key="GridCell.Tab.0.center" timestamp="1579496404742">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1379" height="201" key="GridCell.Tab.0.center/0.23.1440.834/-229.-1057.1920.1057@0.23.1440.834" timestamp="1579496404742" />
+    <state width="1379" height="201" key="GridCell.Tab.0.center/0.23.1440.835/-229.-1057.1920.1057@0.23.1440.835" timestamp="1579494328512" />
+    <state width="1379" height="201" key="GridCell.Tab.0.center/0.23.1440.836/-229.-1057.1920.1057@0.23.1440.836" timestamp="1579494267568" />
+    <state width="1379" height="201" key="GridCell.Tab.0.left" timestamp="1579496404741">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1379" height="201" key="GridCell.Tab.0.left/0.23.1440.834/-229.-1057.1920.1057@0.23.1440.834" timestamp="1579496404741" />
+    <state width="1379" height="201" key="GridCell.Tab.0.left/0.23.1440.835/-229.-1057.1920.1057@0.23.1440.835" timestamp="1579494328511" />
+    <state width="1379" height="201" key="GridCell.Tab.0.left/0.23.1440.836/-229.-1057.1920.1057@0.23.1440.836" timestamp="1579494267568" />
+    <state width="1379" height="201" key="GridCell.Tab.0.right" timestamp="1579496404742">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1379" height="201" key="GridCell.Tab.0.right/0.23.1440.834/-229.-1057.1920.1057@0.23.1440.834" timestamp="1579496404742" />
+    <state width="1379" height="201" key="GridCell.Tab.0.right/0.23.1440.835/-229.-1057.1920.1057@0.23.1440.835" timestamp="1579494328512" />
+    <state width="1379" height="201" key="GridCell.Tab.0.right/0.23.1440.836/-229.-1057.1920.1057@0.23.1440.836" timestamp="1579494267569" />
+    <state x="394" y="183" width="670" height="676" key="search.everywhere.popup" timestamp="1579491476842">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="394" y="183" width="670" height="676" key="search.everywhere.popup/0.23.1440.836/-229.-1057.1920.1057@0.23.1440.836" timestamp="1579491476842" />
+  </component>
+</project>

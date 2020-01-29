@@ -1,0 +1,40 @@
+
+body {
+  height: 100%;
+}
+
+#box {
+  display: flex;
+  font-family: Tahoma;
+  font-size: 40px;
+
+}
+element {
+  text-shadow: 2px 2px;
+  background: #eeeff2;
+  transition: width 2s;
+  /*background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);*/
+  width: 80px;
+  min-width: 80px;
+  height: 130px;
+  border-left-style: dotted;
+  border-left-color: #D0D0FF;
+  border-left-width: 10px;
+  padding: 10px;
+
+  margin: 10px;
+}
+
+.F {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
+
+.A:hover, .B:hover, .F:hover{
+  background: yellow;
+  color: goldenrod;
+}
+element:hover{
+  width: 200px;
+}

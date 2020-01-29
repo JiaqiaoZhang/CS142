@@ -1,0 +1,41 @@
+
+#box{
+  display: flex;
+  /*justify-content: center;*/
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  height: 100vh;
+
+}
+
+element{
+  /*set text, font, size, position*/
+  font-size: 40px;
+  text-align: center;
+
+  /*Set box*/
+  width: 100px;
+  height: 100px;
+  min-height: 100px;
+  border-top: 1px #687291 solid;
+}
+
+.A {
+  background: #eeeff2;
+}
+.B{
+  background: #dfe1e7;
+}
+.F {
+  background: #687291;
+  border: 4px black solid;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 100px;
+}
+
+body {
+  font-family: Tahoma;
+  margin: 8px;
+}

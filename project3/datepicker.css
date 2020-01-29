@@ -1,0 +1,20 @@
+#table, td {
+    border: 1px solid black;
+    text-align: center;
+    background: rgba(119, 248, 255, 0.38);
+    cursor: default;
+}
+
+td#OtherMonth {
+    background: rgba(0, 0, 0, 0.13);
+}
+
+td#CurMonth {
+    background: rgba(255, 255, 0, 0);
+    cursor: pointer;
+}
+
+#LeftCell, #RightCell{
+    cursor: pointer;
+}
+
